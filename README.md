@@ -27,7 +27,7 @@ Lusitian Boost is a web application designed to combat sedentary behavior throug
 - Node.js: Make sure Node.js is installed. You can download it here [Node.js](https://nodejs.org/en)
 ### Installation
 ```
-git clone https://github.com/DiogoCoelho98/Lusitanian_Boost_Backend.git
+git clone https://github.com/DiogoCoelho98/Lusitanian_Boost_Frontend.git
 cd Lusitanian_Boost_Backend
 ```
 ```
